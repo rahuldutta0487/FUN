@@ -1,46 +1,33 @@
 class Solution {
-    
+    int rl ;
+    int cl ;
     public int cherryPickup(int[][] grid) {
-        int n = grid.length;
-        
-        int dp[][][][] = new int[n][n][n][n];
-        
-        int res = pickup(grid , 0  , 0 , 0 , 0 , dp);
-        return (res < 0) ? 0 : res;
+        rl = grid.length;
+        cl = grid[0].length;
+        int[][][][]dp = new int[rl][rl][cl][cl];
+        for(int[][][] a3 : dp){
+            for(int[][] a2 : a3){
+                for(int[] a1 : a2)Arrays.fill(a1,-2);
+            }
+        }
+        int ret = pass(grid , dp , 0 , 0 , 0 , 0);
+        if(ret < 0)return 0;
+        return ret;
     }
-    
-    public int pickup(int grid[][] , int pr1 ,int pc1 , int pr2 ,int pc2,int dp[][][][]) {
-        if(pr1 >= grid.length || pr2 >= grid.length || pc1 >= grid[0].length || pc2 >= grid[0].length || grid[pr1][pc1] == -1 || grid[pr2][pc2] == -1) {
-            return Integer.MIN_VALUE;
-            // we want maximum value so returning min value here
-        }
-        
-        int ans = 0;
-        
-        if(pr1 == grid.length-1 && pc1 == grid[0].length-1) {
-            return grid[pr1][pc1];
-        }
-        
-        if(dp[pr1][pr2][pc1][pc2] != 0) {
-            return dp[pr1][pr2][pc1][pc2];
-        }
-        
-        if(pr1 == pr2 && pc1 == pc2) {
-            ans += grid[pr1][pc1];
-        }
-        else {
-            ans += grid[pr1][pc1] + grid[pr2][pc2];
-        }
-        
-        int f1 = pickup(grid , pr1+1 , pc1 , pr2+1 , pc2 , dp); // v , v
-        int f2 = pickup(grid , pr1 , pc1+1 , pr2 , pc2+1 ,dp); 
-        int f3 = pickup(grid , pr1+1 , pc1 , pr2 , pc2+1,dp);
-        int f4 = pickup(grid , pr1 , pc1+1 , pr2+1 , pc2,dp);
-        
-        ans += Math.max( Math.max(f1 , f2) , Math.max(f3 , f4) );
-        dp[pr1][pr2][pc1][pc2] = ans;
-        
-        return ans;
-        
+    int pass(int[][] grid , int[][][][]dp , int r1 , int r2 , int c1 , int c2){
+        if(c1 == cl || c2 == cl || r1 == rl || r2 == rl)return -1;
+        if(dp[r1][r2][c1][c2] != -2)return dp[r1][r2][c1][c2];
+        if(c1 == cl-1 && c2 == cl-1 && r1 == rl-1 && r2 == rl-1)return dp[r1][r2][c1][c2] = grid[r1][r2];
+        if(grid[r1][c1]==-1 || grid[r2][c2] == -1)return dp[r1][r2][c1][c2] = -1;
+        // if(dp[r1][r2][c1][c2] != 2)return dp[r1][r2][c1][c2];
+        int cur =grid[r1][c1];
+        if(r1 != r2 && c1 != c2)cur += grid[r2][c2];
+        int max = -2;
+        max = Math.max(max , pass(grid , dp , r1+1 , r2+1 , c1 , c2));
+        max = Math.max(max , pass(grid , dp , r1 , r2 , c1+1 , c2+1));
+        max = Math.max(max , pass(grid , dp , r1+1 , r2 , c1 , c2+1));
+        max = Math.max(max , pass(grid , dp , r1 , r2+1 , c1+1 , c2));
+        if(max > -1) return dp[r1][r2][c1][c2] = cur + max;
+        return dp[r1][r2][c1][c2] = -1;
     }
 }
