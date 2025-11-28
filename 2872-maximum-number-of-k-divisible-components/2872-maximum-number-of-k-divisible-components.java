@@ -1,41 +1,43 @@
 class Solution {
+    private Map<Integer, List<Integer>> adj;
+    private Set<Integer> visited;
+    private int comp;
+
     public int maxKDivisibleComponents(int n, int[][] edges, int[] values, int k) {
-        // Step 1: Build the tree using an adjacency list
-        ArrayList<ArrayList<Integer>> tree = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            tree.add(new ArrayList<>());
-        }
+        adj = new HashMap<>();
+        visited = new HashSet<>();
+        comp = 0;
+
+        int src = 0;
+
         for (int[] edge : edges) {
-            tree.get(edge[0]).add(edge[1]);
-            tree.get(edge[1]).add(edge[0]);
+            int u = edge[0];
+            int v = edge[1];
+            adj.computeIfAbsent(u, k1 -> new ArrayList<>()).add(v);
+            adj.computeIfAbsent(v, k1 -> new ArrayList<>()).add(u);
         }
 
-        // Step 2: Initialize components counter
-        int[] components = new int[1];
-
-        // Step 3: Perform DFS
-        dfs(0, -1, tree, values, k, components);
-
-        // Step 4: Return the result
-        return components[0];
+        dfs(src, values, k);
+        return comp;
     }
 
-    long dfs(int node, int parent, ArrayList<ArrayList<Integer>> tree, int[] values, int k, int[] components) {
-        long subTreeSum = values[node]; // Use long to avoid overflow
-
-        // Traverse all children
-        for (int neighbour : tree.get(node)) {
-            if (neighbour != parent) {
-                subTreeSum += dfs(neighbour, node, tree, values, k, components); // Accumulate subtree sums
-            }
+    private int dfs(int root, int[] values, int k) {
+        if (visited.contains(root)) {
+            return 0;
         }
 
-        // Check divisibility
-        if (subTreeSum % k == 0) {
-            components[0]++; // Increment component count
-            return 0; // Reset the subtree sum
+        visited.add(root);
+        int ans = values[root];
+
+        for (int neigh : adj.getOrDefault(root, Collections.emptyList())) {
+            ans += dfs(neigh, values, k);
         }
 
-        return subTreeSum; // Return the subtree sum for the parent
+        if (ans % k == 0) {
+            comp++;
+            return 0;
+        }
+
+        return ans % k;
     }
 }
