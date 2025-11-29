@@ -1,0 +1,13 @@
+class Solution {
+    public int minOperations(int[] nums, int k) {
+        long longSum = 0;
+        
+        for (int x : nums) {
+            longSum += x;
+        }
+        
+        int remainder = (int)(longSum % k);
+        
+        return remainder;
+    }
+}
