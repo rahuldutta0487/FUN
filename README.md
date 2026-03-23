@@ -8,6 +8,7 @@ Practice DSA for fun
 | ------- | ------- |
 | [1224-maximum-equal-frequency](https://github.com/rahuldutta0487/FUN/tree/main/1224-maximum-equal-frequency/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rahuldutta0487/FUN/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rahuldutta0487/FUN/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rahuldutta0487/FUN/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/rahuldutta0487/FUN/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rahuldutta0487/FUN/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -21,6 +22,7 @@ Practice DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rahuldutta0487/FUN/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rahuldutta0487/FUN/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rahuldutta0487/FUN/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/rahuldutta0487/FUN/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rahuldutta0487/FUN/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -46,4 +48,8 @@ Practice DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1224-maximum-equal-frequency](https://github.com/rahuldutta0487/FUN/tree/main/1224-maximum-equal-frequency/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rahuldutta0487/FUN/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 <!---LeetCode Topics End-->
