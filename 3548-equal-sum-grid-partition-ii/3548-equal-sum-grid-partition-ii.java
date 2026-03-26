@@ -1,3 +1,4 @@
+//sorry for copied one now i understand 
 class Solution {
     static final int BIG_NUM = 100001;
 
