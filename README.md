@@ -6,6 +6,7 @@ Practice DSA for fun
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/rahuldutta0487/FUN/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1224-maximum-equal-frequency](https://github.com/rahuldutta0487/FUN/tree/main/1224-maximum-equal-frequency/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rahuldutta0487/FUN/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rahuldutta0487/FUN/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -50,6 +51,7 @@ Practice DSA for fun
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/rahuldutta0487/FUN/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1224-maximum-equal-frequency](https://github.com/rahuldutta0487/FUN/tree/main/1224-maximum-equal-frequency/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rahuldutta0487/FUN/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Dynamic Programming
@@ -67,5 +69,6 @@ Practice DSA for fun
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/rahuldutta0487/FUN/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/rahuldutta0487/FUN/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 <!---LeetCode Topics End-->
