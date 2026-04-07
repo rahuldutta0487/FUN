@@ -60,4 +60,12 @@ Practice DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rahuldutta0487/FUN/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/rahuldutta0487/FUN/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/rahuldutta0487/FUN/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 <!---LeetCode Topics End-->
