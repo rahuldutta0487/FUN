@@ -17,11 +17,13 @@ Practice DSA for fun
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rahuldutta0487/FUN/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3618-split-array-by-prime-indices](https://github.com/rahuldutta0487/FUN/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/rahuldutta0487/FUN/tree/main/3645-maximum-total-from-optimal-activation-order/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/rahuldutta0487/FUN/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rahuldutta0487/FUN/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/rahuldutta0487/FUN/tree/main/3645-maximum-total-from-optimal-activation-order/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/rahuldutta0487/FUN/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@ Practice DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/rahuldutta0487/FUN/tree/main/3645-maximum-total-from-optimal-activation-order/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/rahuldutta0487/FUN/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +90,7 @@ Practice DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/rahuldutta0487/FUN/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+| [3691-maximum-total-subarray-value-ii](https://github.com/rahuldutta0487/FUN/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
