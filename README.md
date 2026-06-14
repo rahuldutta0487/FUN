@@ -38,6 +38,7 @@ Practice DSA for fun
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rahuldutta0487/FUN/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/rahuldutta0487/FUN/tree/main/3645-maximum-total-from-optimal-activation-order/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -71,4 +72,12 @@ Practice DSA for fun
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/rahuldutta0487/FUN/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/rahuldutta0487/FUN/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rahuldutta0487/FUN/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rahuldutta0487/FUN/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
