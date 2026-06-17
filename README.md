@@ -114,6 +114,7 @@ Practice DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3618-split-array-by-prime-indices](https://github.com/rahuldutta0487/FUN/tree/main/3618-split-array-by-prime-indices/) | Medium |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/rahuldutta0487/FUN/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +124,17 @@ Practice DSA for fun
 | ------- | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rahuldutta0487/FUN/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/rahuldutta0487/FUN/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/rahuldutta0487/FUN/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/rahuldutta0487/FUN/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/rahuldutta0487/FUN/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/rahuldutta0487/FUN/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 <!---LeetCode Topics End-->
