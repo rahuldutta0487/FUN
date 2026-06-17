@@ -77,6 +77,7 @@ Practice DSA for fun
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/rahuldutta0487/FUN/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/rahuldutta0487/FUN/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/rahuldutta0487/FUN/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,4 +116,8 @@ Practice DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3618-split-array-by-prime-indices](https://github.com/rahuldutta0487/FUN/tree/main/3618-split-array-by-prime-indices/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/rahuldutta0487/FUN/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 <!---LeetCode Topics End-->
