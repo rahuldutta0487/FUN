@@ -47,6 +47,7 @@ Practice DSA for fun
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rahuldutta0487/FUN/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rahuldutta0487/FUN/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/rahuldutta0487/FUN/tree/main/3645-maximum-total-from-optimal-activation-order/) | Medium |
 ## Heap (Priority Queue)
@@ -59,6 +60,7 @@ Practice DSA for fun
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/rahuldutta0487/FUN/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1224-maximum-equal-frequency](https://github.com/rahuldutta0487/FUN/tree/main/1224-maximum-equal-frequency/) | Hard |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rahuldutta0487/FUN/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rahuldutta0487/FUN/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -119,5 +121,6 @@ Practice DSA for fun
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rahuldutta0487/FUN/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/rahuldutta0487/FUN/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 <!---LeetCode Topics End-->
