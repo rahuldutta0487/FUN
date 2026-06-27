@@ -10,6 +10,7 @@ Practice DSA for fun
 | [1224-maximum-equal-frequency](https://github.com/rahuldutta0487/FUN/tree/main/1224-maximum-equal-frequency/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rahuldutta0487/FUN/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rahuldutta0487/FUN/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rahuldutta0487/FUN/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rahuldutta0487/FUN/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/rahuldutta0487/FUN/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/rahuldutta0487/FUN/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -61,6 +62,7 @@ Practice DSA for fun
 | [0874-walking-robot-simulation](https://github.com/rahuldutta0487/FUN/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1224-maximum-equal-frequency](https://github.com/rahuldutta0487/FUN/tree/main/1224-maximum-equal-frequency/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rahuldutta0487/FUN/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rahuldutta0487/FUN/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rahuldutta0487/FUN/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -69,6 +71,7 @@ Practice DSA for fun
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rahuldutta0487/FUN/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rahuldutta0487/FUN/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Design
 | Problem Name | Difficulty |
