@@ -19,6 +19,7 @@ Practice DSA for fun
 | [3618-split-array-by-prime-indices](https://github.com/rahuldutta0487/FUN/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/rahuldutta0487/FUN/tree/main/3645-maximum-total-from-optimal-activation-order/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rahuldutta0487/FUN/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3771-total-score-of-dungeon-runs](https://github.com/rahuldutta0487/FUN/tree/main/3771-total-score-of-dungeon-runs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Practice DSA for fun
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rahuldutta0487/FUN/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/rahuldutta0487/FUN/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rahuldutta0487/FUN/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3771-total-score-of-dungeon-runs](https://github.com/rahuldutta0487/FUN/tree/main/3771-total-score-of-dungeon-runs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,4 +142,8 @@ Practice DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/rahuldutta0487/FUN/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3771-total-score-of-dungeon-runs](https://github.com/rahuldutta0487/FUN/tree/main/3771-total-score-of-dungeon-runs/) | Medium |
 <!---LeetCode Topics End-->
